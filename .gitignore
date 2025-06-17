@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+venv/
+env/
+.env
+pip-log.txt
+pip-delete-this-arg.txt
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Operating System
+.DS_Store
+Thumbs.db
+.localized
+
+# IDE (if any)
+.idea/
+.vscode/
+*.iml
