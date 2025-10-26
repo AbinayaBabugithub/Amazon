@@ -1,26 +1,6 @@
 {
   "locations": [
     {
-      "city": "Belleville",
-      "postal_code": "K8P3A3",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000319&locale=en-CA"
-    },
-    {
-      "city": "Scarborough",
-      "postal_code": "M1P1A1",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000296&locale=en-CA"
-    },
-    {
-      "city": "Ottawa",
-      "postal_code": "K1A0B1",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000238&locale=en-CA"
-    },
-    {
-      "city": "Brampton",
-      "postal_code": "L6P1A1",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000289&locale=en-CA"
-    },
-    {
       "city": "Balzac",
       "postal_code": "T4B2T3",
       "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000300&locale=en-CA"
@@ -30,21 +10,6 @@
       "postal_code": "T4A0V1",
       "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000301&locale=en-CA"
     },
-    {
-      "city": "Calgary",
-      "postal_code": "T2P1J9",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000313&locale=en-CA"
-    },
-    {
-      "city": "Mississauga",
-      "postal_code": "L4W1S2",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000288&locale=en-CA"
-    },
-    {
-      "city": "Edmonton",
-      "postal_code": "T5J0N3",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000256&locale=en-CA"
-    }
   ],
   "preferences": {
     "weekly_hours": "Full-time (30+ hours)",
