@@ -4,12 +4,7 @@
       "city": "Balzac",
       "postal_code": "T4B2T3",
       "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000300&locale=en-CA"
-    },
-    {
-      "city": "Rocky View County",
-      "postal_code": "T4A0V1",
-      "job_url": "https://hiring.amazon.ca/app#/jobSearch?jobId=JOB-CA-0000000301&locale=en-CA"
-    },
+    }
   ],
   "preferences": {
     "weekly_hours": "Full-time (30+ hours)",
